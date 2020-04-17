@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="golek2/app" />
+      <module fileurl="file://$PROJECT_DIR$/golek2.iml" filepath="$PROJECT_DIR$/golek2.iml" group="golek2" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Mahasiswa API.iml" filepath="$PROJECT_DIR$/Mahasiswa API.iml" group="Mahasiswa API" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Mahasiswa API/app" />
+>>>>>>> 3778a65c206ef2f995ad91c71f6d39a579caad4c
+    </modules>
+  </component>
+</project>

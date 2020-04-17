@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mhs_add.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_mhs_add.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_save.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_edit.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nama.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nama.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_mhs_row_item.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\mhs_row_item.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_loading_shape.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable\\loading_shape.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_email.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mhs_detail.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_mhs_detail.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nama.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_nama.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_password.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_action.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\menu\\menu_action.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_edit.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_edit.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_undraw.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\undraw.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_email.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account_circle_white_24dp.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_account_circle_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_email.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_jurusan.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_jurusan.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_password.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_people_black_24dp.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable\\ic_people_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_badge_background.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable\\badge_background.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_golek.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\golek.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_save.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_nim.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_nim.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_save.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_my_profile.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_my_profile.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_jurusan.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_jurusan.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_edit.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_mhs.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\layout\\activity_mhs.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nama.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_nama.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_jurusan.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_jurusan.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_password.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg2.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\bg2.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nim.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_nim.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_edit.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_edit.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_email.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_save.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nama.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_nama.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_nama.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-mdpi\\ic_nama.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_white_24dp.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable\\ic_add_white_24dp.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_jurusan.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_jurusan.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_nim.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_nim.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_save.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_save.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_email.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_email.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_account_circle_black_24dp.xml.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable\\ic_account_circle_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_nim.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-hdpi\\ic_nim.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_nim.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_nim.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_jurusan.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_jurusan.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_password.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_password.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xxhdpi\\ic_password.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\drawable-xhdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\andro\\golek2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\andro\\golek2\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]
